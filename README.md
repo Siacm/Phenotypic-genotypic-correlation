@@ -1,4 +1,4 @@
-# Phenotypic-genotypic-correlation
+# Phenotypic-genotypic-correlation files
 
 R script for merging files antibiotics and phenotypic sensitivities from SISTR, MLST, ABRicate and phenotypic data into their respective antibiotic classes
 
